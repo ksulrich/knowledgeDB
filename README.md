@@ -1,6 +1,6 @@
 # knowledgeDB
 
-**Idea:** You have on file (maybe `$HOME/KNOW`), which has this structure:
+## Idea: You have one file (maybe `$HOME/KNOW`), which has this structure:
 
 ```
 ---
