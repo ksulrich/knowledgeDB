@@ -32,3 +32,5 @@ A block	is separated with 3 or more dashes `-`,	which must begin on the	first co
 In your block, you can have any text you like including ------ or other stuff.
 -------------------------------------------------------------------------------------
 ```
+
+A solution suggested by ChatGPT can be found here <https://github.com/ksulrich/python/blob/master/src/telefon2.py>
